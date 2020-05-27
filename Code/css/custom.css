@@ -154,4 +154,203 @@ h1,h2,h3,p{
         height:100%;
         border-color:#666;
 }
+/* Extra small devices (portrait phones, less than 576px)   
+No media query since this is the default in Bootstrap*/
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {  
+
+    .NES{
+        width: 200px;
+        height: 160px;
+        background-size: cover;
+        background-position: center;
+        background: url("../assets/images/NES.jfif")no-repeat ;
+    
+    }
+    
+    .Super_nintendo{
+        width: 200px;
+        height: 160px;
+        background: url("../assets/images/super_nintendo.jfif")no-repeat ;
+        background-size: contain;
+        background-position: center;
+    }
+    
+    .N64{
+        width: 200px;
+        height: 160px;
+        background-size: cover;
+        background: url("../assets/images/N64.jfif")no-repeat ;
+        background-position: center;
+    }
+    
+    
+    .Gamecube{
+        width:  200px;
+        height: 160px;
+        background-size: cover;
+        background: url("../assets/images/gamecube.jfif")no-repeat;
+
+    }
+    #the-element{
+        position:relative;
+        display:block;
+        line-height:0px;
+        padding:0;
+        display:block;
+        background:url('../assets/images/picture-3.png');
+        width:200px;
+        
+        border-color:#666;
+   
+    }
+    .model3D  {    
+        background-color:red;
+        border-radius: 5px;
+        border: 1px solid rgba(0, 0, 0, 1.0);    
+        padding: 2px; 
+        width: 300px;
+    }
+    .card{
+        width: 200px;
+        border-radius: 1px;
+        border: 1px solid rgba(0, 0, 0, 1.0);  
+        
+        
+    }
+}
+/* Medium devices (tablets, 768px and up)
+*/
+@media (min-width: 768px) { 
+
+    .NES{
+        width: 300px;
+        height: 250px;
+        background-size: cover;
+        background-position: center;
+        background: url("../assets/images/NES.jfif")no-repeat ;
+    
+    }
+    
+    .Super_nintendo{
+        width: 300px;
+        height: 250px;
+        background: url("../assets/images/super_nintendo.jfif")no-repeat ;
+        background-size: contain;
+        background-position: center;
+    }
+    
+    .N64{
+        width: 300px;
+        height: 250Px;
+        background-size: cover;
+        background: url("../assets/images/N64.jfif")no-repeat ;
+        background-position: center;
+    }
+    
+    
+    .Gamecube{
+        width:  300px;
+        height: 250px;
+        background-size: cover;
+        background: url("../assets/images/gamecube.jfif")no-repeat;
+
+    }
+    #the-element{
+        position:relative;
+        display:block;
+        line-height:0px;
+        padding:0;
+        display:block;
+        background:url('../assets/images/picture-3.png');
+        width:300px;
+        
+        border-color:#666;
+   
+    }
+    .model3D  {    
+        background-color:red;
+        border-radius: 5px;
+        border: 1px solid rgba(0, 0, 0, 1.0);    
+        padding: 2px; 
+        width: 300px;
+    }
+    .card{
+        width: 300px;
+        border-radius: 1px;
+        border: 1px solid rgba(0, 0, 0, 1.0);  
+        
+        
+    }
+}
+
+@media (min-width: 992px) { 
+    .NES{
+        width: 600px;
+        height: 550px;
+        background-size: cover;
+        background-position: center;
+        background: url("../assets/images/NES.jfif")no-repeat ;
+    
+    }
+    
+    .Super_nintendo{
+        width: 600px;
+        height: 550px;
+        background: url("../assets/images/super_nintendo.jfif")no-repeat ;
+        background-size: contain;
+        background-position: center;
+    }
+    
+    .N64{
+        width: 600px;
+        height: 550Px;
+        background-size: cover;
+        background: url("../assets/images/N64.jfif")no-repeat ;
+        background-position: center;
+    }
+    
+    
+    .Gamecube{
+        width:  600px;
+        height: 550px;
+        background-size: cover;
+        background: url("../assets/images/gamecube.jfif")no-repeat;
+
+    }
+    #the-element{
+        position:relative;
+        display:block;
+        line-height:0px;
+        padding:0;
+        display:block;
+        background:url('../assets/images/picture-3.png');
+        width:600px;
+        
+        border-color:#666;
+   
+    }
+    .model3D  {    
+        background-color:red;
+        border-radius: 5px;
+        border: 1px solid rgba(0, 0, 0, 1.0);    
+        padding: 2px; 
+        width: 300px;
+    }
+    .card{
+        width: 600px;
+        border-radius: 1px;
+        border: 1px solid rgba(0, 0, 0, 1.0);  
+        
+        
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up)
+*/
+@media (min-width: 1200px) {  
+}
+
+
+
 
