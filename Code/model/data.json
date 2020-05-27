@@ -1,0 +1,48 @@
+{
+    "pageTextData":[{
+    "title":"Nintendo Console's History!",
+    "subTitle":"Nintendo Co., Ltd.",
+    "description":"is a Japanese multinational consumer electronics and video game company headquartered in Kyoto. Its international branches, Nintendo of America and Nintendo of Europe, are respectively headquartered in Redmond, Washington, and Frankfurt, Germany. Nintendo is one of the world's largest video game companies by market capitalization, creating some of the best-known and top-selling video game franchises of all-time, such as Mario, The Legend of Zelda, Animal Crossing, and Pokémon. Nintendo was founded by Fusajiro Yamauchi on 23 September 1889 and originally produced handmade hanafuda playing cards. By 1963, the company had tried several small niche businesses, such as cab services and love hotels, without major success. Abandoning previous ventures in favor of toys in the 1960s, Nintendo developed into a video game company in the 1970s. Supplemented since the 1980s by its regional branches Nintendo of America and Nintendo of Europe, it ultimately became one of the most influential in the video game industry and one of Japan's most-valuable companies, with a market value of over US$37 billion by 2018."
+},
+{
+    "x3DNESTitle":"3D MODELS",
+    "x3DNESCreationMethod":"These models have been created in 3DS Max, then converted into X3D files to be included into the website",
+    "NEStitle":"NES HISTORY",
+    "NESsubtitle":"The Nintendo Entertainment System(NES)",
+    "NESdescription": "is an 8-bit third-generation home video game console produced, released, and marketed by Nintendo. It is a remodelled export version of the company's Family Computer (FC) platform in Japan, commonly known as the Famicom[b], which was launched on July 15, 1983. The NES was launched in a test market of New York City on October 18, 1985, followed by Los Angeles as a second test market in February 1986, followed by Chicago and San Francisco, then other top 12 American markets, followed by a full launch across North America and some countries in Europe in September 1986, followed by Australia and other countries in Europe in 1987. Brazil saw only unlicensed clones until the official local release in 1993. The console's South Korean release was packaged as the Hyundai Comboy and distributed by Hyundai Electronics (now SK Hynix)."
+
+},
+{
+    "x3DSNTitle":"3D Super Nintendo",
+    "x3DSNCreationMethod":"These models have been created in 3DS Max, then converted into an X3D file to be included into the website",
+    "SNtitle":"Super Nintendo",
+    "SNsubTitle":"The Super Nintendo Entertainment System(SNES)",
+    "SNdescription":"also known as the Super NES or Super Nintendo, is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan and South Korea, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom (SFC). In South Korea, it is known as the Super Comboy and was distributed by Hyundai Electronics. The system was released in Brazil on August 30, 1993, by Playtronic. Although each version is essentially the same, several forms of regional lockout prevent the different cartridges from being compatible with one another."
+},
+{
+    "x3DN64Title":"3D N64",
+    "x3DN64CreationMethod":"These models have been created in 3DS Max, then converted into an X3D file to be included into the website",
+    "N64title":"N64",
+    "N64subTitle":"The Nintendo 64",
+    "N64description":"(officially abbreviated as N64, hardware model number pre-term: NUS, stylized as NINTENDO64) is a home video game console developed and marketed by Nintendo. Named for its 64-bit central processing unit, it was released in June 1996 in Japan, September 1996 in North America, and March 1997 in Europe and Australia. It was the last major home (or later hybrid) console to use the cartridge as its primary physical storage format until the Nintendo Switch in 2017. The Nintendo 64 was discontinued in mid 2002 following the launch of its successor, the GameCube, in 2001."
+},
+{
+    "x3DGamecubeTitle":"3D Gamecube",
+    "x3DGamecubeCreationMethod":"These models have been created in 3DS Max, then converted into an X3D file to be included into the website",
+    "Gtitle":"Gamecube",
+    "GsubTitle":"The Nintendo Gamecube",
+    "Gdescription":" is a home video game console released by Nintendo in Japan and North America in 2001 and in the PAL territories in 2002. The GameCube is Nintendo's entry in the sixth generation of video game consoles and is the successor to their previous console, the Nintendo 64. The GameCube competed with Sony's PlayStation 2 and Microsoft's Xbox.The GameCube is the first Nintendo console to use optical discs as its primary storage medium. The discs are in the miniDVD format and the system was not designed to play full-sized DVDs or audio CDs, unlike its competitors, and focused on gaming instead. The console supports limited online gaming for a small number of games via a GameCube broadband or modem adapter and can connect to a Game Boy Advance with a link cable, which allows players to access exclusive in-game features using the handheld as a second screen and controller."
+},
+{
+    "galleryTitle":"3D Gallery"
+    
+},
+{
+    "cameraTitle":"Camera",
+    "cameraDescription":"You can see the models from different viewpoints"
+},
+{
+    "renderTitle":"Render and Lighting Options"
+}
+]
+}
