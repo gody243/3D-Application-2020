@@ -11,6 +11,13 @@ body{
     
     
 }
+#header{
+    background-color: #202021;
+    
+}
+img#logo{
+    width:40%;
+}
 .NESbg{
     background-image: url("../assets/images/NES_logopng.png");
     background-attachment: fixed;
@@ -35,9 +42,11 @@ h1,h2,h3,p{
     
 }
 
-.card{
-    width: fit-content;
-    border-radius: 1px;
+div.card{
+   
+    width: 50%;
+    height: 50%;
+    margin: 10px;
     border: 1px solid rgba(0, 0, 0, 1.0);  
     
     
@@ -88,6 +97,12 @@ h1,h2,h3,p{
 	text-align:center;
 	border-radius:10px;
 }
+.row{
+    
+    margin: 0;
+}
+
+
 .image_thumbnail{
     padding: 0.25rem;    
     margin-top: 5px;   
@@ -97,12 +112,44 @@ h1,h2,h3,p{
      max-width: 100%;    
      height: auto;
 }
-.model3D  {    
+div.container{
+    width: 100%;
+    display: flex;
+    justify-content:flex-start;
+    flex-direction: row;
+    margin-bottom: 1px;
+    padding: 0;
+}
+ul.menu{
+    list-style-type: none;
+    margin:0;
+  display: flex;
+  padding: 0;
+
+}
+
+ul.menu li {
+    color:#ccc;
+    background-color:red;
+    margin: 10px;
+    box-shadow: 3px 3px 0px black;
+    
+}
+ul.menu li:hover {
+    color:red;
+    background-color:#ccc;
+}
+div.model3D  {
+    display: flex;
+    justify-content:center;
+       
+    align-items:center; 
     background-color:red;
     border-radius: 5px;
     border: 1px solid rgba(0, 0, 0, 1.0);    
     padding: 2px; 
-    width: auto;
+    width: 100%;
+   
 }
 .x3d {    
     border-radius: 5px;    
@@ -205,14 +252,15 @@ No media query since this is the default in Bootstrap*/
    
     }
     .model3D  {    
-        background-color:red;
+        
         border-radius: 5px;
         border: 1px solid rgba(0, 0, 0, 1.0);    
         padding: 2px; 
         width: 300px;
     }
     .card{
-        width: 200px;
+        width: 50%;
+        height: 50%;
         border-radius: 1px;
         border: 1px solid rgba(0, 0, 0, 1.0);  
         
@@ -269,7 +317,7 @@ No media query since this is the default in Bootstrap*/
    
     }
     .model3D  {    
-        background-color:red;
+        
         border-radius: 5px;
         border: 1px solid rgba(0, 0, 0, 1.0);    
         padding: 2px; 
@@ -331,7 +379,7 @@ No media query since this is the default in Bootstrap*/
    
     }
     .model3D  {    
-        background-color:red;
+        
         border-radius: 5px;
         border: 1px solid rgba(0, 0, 0, 1.0);    
         padding: 2px; 
